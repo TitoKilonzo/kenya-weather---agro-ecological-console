@@ -1,0 +1,6 @@
+{
+  "name": "Kenya Weather & Agro-Ecological Console",
+  "description": "An interactive botanical and meteorological intelligence hub customized for East African microclimates, cash crops, and daily travel advisories.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
